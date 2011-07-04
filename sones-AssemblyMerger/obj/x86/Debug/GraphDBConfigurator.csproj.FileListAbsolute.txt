@@ -1,0 +1,11 @@
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\bin\Debug\GraphDBConfigurator.exe
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\bin\Debug\GraphDBConfigurator.pdb
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GraphDBConfigurator.MainForm.resources
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GraphDBConfigurator.Properties.Resources.resources
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GraphDBConfigurator.exe
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\obj\x86\Debug\GraphDBConfigurator.pdb
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\bin\Debug\Resources\Documents_ico_4.ico
+H:\Local_Projects\GraphDBConfigurator\GraphDBConfigurator\bin\Debug\Resources\sones_2550x1440 (3).jpg

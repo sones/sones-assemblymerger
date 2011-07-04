@@ -1,0 +1,10 @@
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\bin\Release\Resources\Documents_ico_4.ico
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\bin\Release\sones-AssemblyMerger.exe
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\bin\Release\sones-AssemblyMerger.pdb
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\GraphDBConfigurator.MainForm.resources
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\sones.AssemblyMerger.Properties.Resources.resources
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\sones-AssemblyMerger.exe
+H:\Local_Projects\sones-AssemblyMerger\GraphDBConfigurator\obj\x86\Release\sones-AssemblyMerger.pdb
